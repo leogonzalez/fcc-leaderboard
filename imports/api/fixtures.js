@@ -1,8 +1,8 @@
-export const list = [
+export const leaderboard = [
   {
     "username": "diomed",
     "img": "https://avatars3.githubusercontent.com/u/72777?v=3",
-    "alltime": 4860,
+    "alltime": 14860,
     "recent": 521,
     "lastUpdate": "2017-06-28T11:26:04.252Z"
   }, {
