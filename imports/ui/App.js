@@ -23,5 +23,3 @@ export default () => {
     </div>
   );
 }
-
-heroku config:set ROOT_URL="https://gonzalez-fcc-leaderboard.herokuapp.com"
